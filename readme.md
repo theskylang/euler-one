@@ -1,0 +1,1 @@
+Paula García's solution to the JavaScript 101 assignment.
